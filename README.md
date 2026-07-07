@@ -1,6 +1,4 @@
-# Desafio
-
-## Bankly Frontend
+# Bankly Frontend
 
 Este é um projeto simples de interface para o app bancário digital **Bankly**.  
 Ele exibe uma mensagem personalizada de boas-vindas ao usuário e mostra o saldo formatado em reais.
