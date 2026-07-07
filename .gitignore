@@ -1,0 +1,21 @@
+
+---
+
+## ⚙️ Criando o `.gitignore`
+Esse arquivo evita que coisas desnecessárias sejam enviadas ao GitHub.  
+Crie um `.gitignore` com:
+
+```
+# Node modules
+node_modules/
+.env
+
+---
+
+## 📤 Subindo tudo para o GitHub
+Depois de criar esses arquivos:
+
+```bash
+git add .
+git commit -m "Adiciona README e estrutura inicial"
+git push
